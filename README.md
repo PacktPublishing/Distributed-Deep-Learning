@@ -23,7 +23,7 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 
 ### Versioning
 * [Keras][4] `2.1.6`
-* [TensorFlow][5] `1.8`
+* [TensorFlow][5] `1.8+`
 * [Google Cloud MLE][6] `latest`
 
 ### Installing
@@ -42,7 +42,7 @@ sudo pip install tensorflow
 ```
 ##### Google Cloud MLE
 Link: https://cloud.google.com/sdk/
-> Installation details will be explained in [Section III][7]
+> Installation details will be explained in [Section I][7]
 
 ### Authors
 **Christian Fanli Ramsey** 
